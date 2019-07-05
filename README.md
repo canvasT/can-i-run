@@ -14,6 +14,12 @@
 npm install -g can-i-run
 ```
 
+## Usage
+
+```sh
+canirun
+```
+
 ## Author
 
 👤 **fengtaotao082913@gmail.com**
