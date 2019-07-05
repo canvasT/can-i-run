@@ -1,0 +1,29 @@
+{
+  "name": "npm-run",
+  "version": "1.0.0",
+  "description": "A tool list commands of package",
+  "main": "index.js",
+  "bin": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canvasT/npm-run.git"
+  },
+  "keywords": [
+    "npm",
+    "scripts",
+    "command"
+  ],
+  "author": "fengtaotao082913@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canvasT/npm-run/issues"
+  },
+  "homepage": "https://github.com/canvasT/npm-run#readme",
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0"
+  }
+}
